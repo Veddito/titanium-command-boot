@@ -1,0 +1,1 @@
+// Etiquetador de Comandos Inteligente - Conteúdo do módulo

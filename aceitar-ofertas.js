@@ -1,0 +1,1 @@
+// Aceitar Ofertas em Massa - Conteúdo do módulo

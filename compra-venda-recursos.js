@@ -1,0 +1,1 @@
+// Compra & Venda de Recursos - Conteúdo do módulo

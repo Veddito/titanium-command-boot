@@ -1,0 +1,1 @@
+// Coleta em Massa - Conteúdo do módulo

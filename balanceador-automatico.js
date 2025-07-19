@@ -1,0 +1,1 @@
+// Balanceador Automático - Conteúdo do módulo

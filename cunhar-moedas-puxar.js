@@ -1,0 +1,1 @@
+// Cunhar Moedas & Puxar Recursos - Conteúdo do módulo
